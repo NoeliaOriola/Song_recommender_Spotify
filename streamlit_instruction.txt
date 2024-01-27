@@ -1,0 +1,6 @@
+how to launch the streamlit app:
+- download the streamlit library from Anaconda Navigator (or pip depending on your case)
+- open the terminal 
+- move to the folder where all the required csv, pickle and python files are located
+- from there input following command:  streamlit run streamlit_app.py
+- a web app will launch in your browser and execute the code saved in the .py file above
